@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>247129587614-si0fv6uuhsus5b3oe9f2ste3ph6l8hq8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.247129587614-si0fv6uuhsus5b3oe9f2ste3ph6l8hq8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>247129587614-i658colp2h621ie4m64bs0gpa6a34ckv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqXGDuSe9JypuW7jD3h6PR2vkDe3BCMnA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>247129587614</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.redditTutorial</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-reddit-clone-14f64</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-reddit-clone-14f64.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:247129587614:ios:dd117b7c756da2b6d8208f</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-reddit-clone-14f64-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
